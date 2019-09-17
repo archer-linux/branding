@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.559092mm"
+   height="18.559092mm"
+   viewBox="0 0 18.559091 18.559092"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo-hollow-circular-white.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/matthew/Downloads/archer/plain-thicker-circular-black.svg.png"
+   inkscape:export-xdpi="2737.2"
+   inkscape:export-ydpi="2737.2">
+  <defs
+     id="defs2">
+    <linearGradient
+       y2="28.426884"
+       x1="34.76569"
+       x2="25.431995"
+       y1="9.9084301"
+       id="lg"
+       gradientTransform="scale(0.9319351,1.0730361)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop66"
+         offset="0"
+         stop-opacity="0"
+         stop-color="#fff" />
+      <stop
+         id="stop68"
+         offset="1"
+         stop-opacity=".27451"
+         stop-color="#fff" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lg"
+       id="linearGradient120"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9319351,1.0730361)"
+       x1="34.76569"
+       y1="9.9084301"
+       x2="25.431995"
+       y2="28.426884" />
+    <linearGradient
+       y2="28.426884"
+       x1="34.76569"
+       x2="25.431995"
+       y1="9.9084301"
+       id="lg-3"
+       gradientTransform="matrix(0,0.58349952,-0.67184512,0,-94.898513,-57.355272)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4783"
+         offset="0"
+         stop-opacity="0"
+         stop-color="#fff" />
+      <stop
+         id="stop4785"
+         offset="1"
+         stop-opacity=".27451"
+         stop-color="#fff" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="42.795227"
+     inkscape:cy="40.78766"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g128"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.628163,-62.112248)">
+    <g
+       id="g128"
+       transform="matrix(0.26458333,0,0,0.26458333,60.872272,81.224015)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5669291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 35.072266 0 A 35.0723 35.0723 0 0 0 0 35.072266 A 35.0723 35.0723 0 0 0 35.072266 70.144531 A 35.0723 35.0723 0 0 0 70.144531 35.072266 A 35.0723 35.0723 0 0 0 35.072266 0 z M 24.560547 15.037109 C 39.078927 23.117137 46.632347 27.101173 51.935547 29.642578 C 50.975247 30.783974 50.045694 32.291678 49.123047 34.335938 L 49.123047 34.75 C 50.630198 32.697669 51.981055 31.325495 53.152344 30.220703 C 57.395524 32.206117 60.259832 33.288461 64.632812 35.072266 C 56.017455 38.743184 53.367947 39.609121 33.435547 50.314453 C 34.248247 48.96079 34.976922 47.222449 35.607422 44.796875 C 33.796062 48.325665 32.123311 50.05431 30.837891 51.712891 C 28.885031 52.766019 26.834607 53.872095 24.560547 55.107422 C 28.176997 48.84313 30.428576 43.969104 31.316406 39.431641 C 32.000126 39.582535 32.737536 39.670043 33.503906 39.689453 C 36.104197 39.753871 38.455313 38.977209 39.873047 37.755859 L 19.25 37.755859 C 17.549638 38.591086 15.430772 39.678435 11.882812 41.583984 C 12.152903 41.134112 12.393486 40.536489 12.617188 39.826172 C 12.552334 39.86024 12.47426 39.902738 12.408203 39.9375 C 11.792669 40.971179 11.226376 41.597778 10.775391 42.179688 C 9.9429781 42.628585 9.0689326 43.10039 8.0996094 43.626953 C 8.860317 42.30928 9.4777363 41.137872 9.9550781 40.054688 C 10.044688 39.790158 10.138718 39.547825 10.220703 39.232422 C 9.448607 40.736581 8.7354129 41.472712 8.1875 42.179688 C 7.3550882 42.628585 6.4810418 43.10039 5.5117188 43.626953 C 7.0532416 40.956777 8.0121828 38.879422 8.390625 36.945312 C 8.5641191 36.983602 8.7579557 36.990879 8.9453125 37.009766 L 8.9453125 33.214844 C 8.7599619 33.236044 8.5790229 33.266485 8.40625 33.306641 C 8.0384838 31.351447 7.0740587 29.253081 5.5117188 26.546875 C 7.0765373 27.417756 7.989437 27.902431 9.2070312 28.568359 C 8.8779029 27.930025 8.5121297 27.261422 8.0996094 26.546875 C 13.709535 29.669011 16.827134 31.324687 19.054688 32.419922 L 39.837891 32.419922 C 38.572598 31.366214 36.573779 30.662513 34.271484 30.605469 L 34.070312 30.601562 C 33.115494 30.594051 32.197452 30.69793 31.351562 30.894531 C 30.488784 26.307604 28.225837 21.385926 24.560547 15.037109 z "
+         id="path4882"
+         transform="translate(-159.66278,-72.233451)" />
+      <g
+         id="g4823"
+         transform="matrix(0,0.80824743,-0.80824743,0,-82.842537,-63.214554)">
+        <g
+           id="g4849"
+           transform="matrix(0.73775824,0,0,0.73775824,8.4580857,19.945646)">
+          <g
+             id="g4674"
+             transform="translate(0,4.3414043)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
